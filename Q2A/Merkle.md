@@ -1,4 +1,4 @@
-#### What is a Merkle Tree
+#### What is a Merkle Tree?
 
 A Merkle Tree is a mathematical Data Structure composed of hashes of different blocks of data, which serves as a summary of all transactions in a block. It allows for secure and efficient verification of content in a large body of data.
 
