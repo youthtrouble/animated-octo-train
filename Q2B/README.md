@@ -5,4 +5,4 @@
 - `git clone https://github.com/youthtrouble/animated-octo-train`
 - `go run Q2B/modInv.go 42 2017`
 
-![Unit Test Results](Unit Test Results.png)
+![Unit Test Results](Unit-Test-Results.png)
